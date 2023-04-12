@@ -48,6 +48,7 @@ https://miro.com/app/board/uXjVMVEuJW4=/?share_link_id=943024169109
 
 ## ZHDK Weiterbildung :wave: 
 * https://www.zhdk.ch/weiterbildung/vermittlung-525/creative-coding-in-der-vermittlungspraxis-einsetzen-19230
+* <a href="Flyer.pdf" target="_blank">Flyer, PDF </a>
 
 ****
 ## Auswertung
